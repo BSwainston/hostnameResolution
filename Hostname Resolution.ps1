@@ -65,7 +65,7 @@ foreach ($ip in $listofIPs)
 
 }
 
-$Resultlist | Out-File C:\Users\bryan.swainston\Desktop\list.txt
+$Resultlist | Out-File #path to write location
 
 
  
