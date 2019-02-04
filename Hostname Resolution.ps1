@@ -2,12 +2,12 @@
 #Creation Date: 4-26-2018
 
 #For a text file containing a list of IPs:
-#$listofIPs = Get-Content #add path to list of IP's.txt
+$listofIPs = Get-Content #add path to list of IP's.txt
 
 
  
 #Or you can list them here and uncomment it. Be sure to comment out the above line before executing. 
-$listofIPs = "8.8.8.8"
+#$listofIPs = "8.8.8.8"
 
 
  
